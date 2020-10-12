@@ -10,3 +10,4 @@ There are a total of three classes namely person, mask, and face for which we al
 
 
 Google Drive Link for dataset and TFRecord - https://drive.google.com/file/d/13aVHh6A51rMz1rP1XdlsYSbm-fc6icgZ/view?usp=sharing
+Google Coral Retrain an Object Detection Model Official Tutorial - https://coral.ai/docs/edgetpu/retrain-detection/#compile-the-model-for-the-edge-tpu
