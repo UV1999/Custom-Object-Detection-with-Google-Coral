@@ -7,3 +7,6 @@ This repo is for retraining an object detection model to recognize a set of clas
 And by following the instructions given in the Google-coral website for configuring your own training data, we took our own images and labeled all those using LableMe to get the annotations in xml format. Then we converted the same to tf_record which is required to start training the model.
 
 There are a total of three classes namely person, mask, and face for which we also updated the label_map.pbtxt file. The model that we used here is the MobileNet SSD V1. The model was downloaded and we also changed the pipeline.config file pointing to our own custom tf_record, label_map.pbtxt file, and the mobilenet_ssd_v1 model checkpoint file.
+
+
+Google Drive Link for dataset and TFRecord - https://drive.google.com/file/d/13aVHh6A51rMz1rP1XdlsYSbm-fc6icgZ/view?usp=sharing
