@@ -1,5 +1,5 @@
 # google-coral_custom_object-detection
-Here, I am adopting the official Google Docker documentation tutorial but I am retaining the object detection model with my own custom dateset.
+Here, I am adopting the official Google Docker documentation tutorial but I am retaining the object detection model with my own custom dataset.
 
 
 This repo is for retraining an object detection model to recognize a set of classes using our very own custom dataset. All the prerequisites were downloaded and requirements were met. And as given in the tutorial, after starting the docker container, the download and configure the training data step given in the official Google-coral tutorial were skipped because we are using our very own custom dataset.
